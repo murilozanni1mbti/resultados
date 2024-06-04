@@ -44,7 +44,7 @@ body{
     height: 14rem;
     background: var(--media-bg);
     margin-inline: auto;
-    border-radius: 50px;
+    border-radius: 50%;
     display: flex;
     flex-direction: column;
     justify-content: center;
